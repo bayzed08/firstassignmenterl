@@ -1,6 +1,6 @@
     body {
         font-family: 'Noto Sans JP', sans-serif;
-        border: 2px solid red;
+        
     }
 
     h1 {
@@ -142,5 +142,5 @@
     }
     .for-menuchild{
      padding-right: 25px;
-     color: blue;
+     color: rgb(4, 4, 122);
     }
